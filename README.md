@@ -156,23 +156,20 @@ I am actively seeking opportunities in:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-dev-hu&show_icons=true&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=S-dev-hu&show_icons=true&theme=tokyonight
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-dev-hu&layout=compact&theme=tokyonight)
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-dev-hu&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-dev-hu&layout=compact&theme=tokyonight"/>
-</p>
+
+
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=S-dev-hu&theme=tokyonight)
+(https://streak-stats.demolab.com?user=S-dev-hu&theme=tokyonight)
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-dev-hu&theme=tokyo-night)](https://github.com/S-dev-hu)
+https://github-readme-activity-graph.vercel.app/graph?username=S-dev-hu&theme=tokyo-night)](https://github.com/S-dev-hu
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=S-dev-hu&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=S-dev-hu&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
