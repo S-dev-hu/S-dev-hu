@@ -8,179 +8,168 @@
 
 I am a National Diploma in Information Technology graduate with a strong passion for software development, IT operations, systems administration, and cybersecurity.
 
-I enjoy building enterprise-style applications that solve real-world business and technical challenges. My portfolio focuses on backend development, database systems, monitoring solutions, IT service management, and cybersecurity platforms using modern development practices.
+I enjoy building enterprise-style applications that address real-world business and technical challenges. My portfolio focuses on backend development, database systems, infrastructure monitoring, IT service management, and cybersecurity solutions.
 
-Currently, I am expanding my expertise in:
+I am continuously developing my technical skills and expanding my knowledge in:
 
-* Python Development
-* Flask Web Applications
-* Database Design & SQL
-* Systems Administration
-* Network Monitoring
-* Cybersecurity Operations
-* Security Information & Event Management (SIEM)
-* Threat Intelligence & Incident Response
+- Python Development
+- Flask Web Applications
+- Database Design and SQL
+- Systems Administration
+- Network Monitoring
+- Cybersecurity Operations
+- Security Information and Event Management (SIEM)
+- Threat Intelligence and Incident Response
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Development
+### 💻 Programming and Web Development
 
-* Python
-* Flask
-* SQL
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript (Fundamentals)
+- Python
+- Flask
+- SQL
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript Fundamentals
 
-### Databases
+### 🗄️ Databases
 
-* PostgreSQL
-* SQLite
-* MySQL
+- PostgreSQL
+- SQLite
+- MySQL
 
-### IT & Infrastructure
+### 🖥️ IT Infrastructure and Operations
 
-* Windows Administration
-* Linux Fundamentals
-* Active Directory
-* Networking Fundamentals
-* IT Service Management
-* Asset Management
+- Windows Administration
+- Linux Fundamentals
+- Active Directory
+- Networking Fundamentals
+- IT Service Management
+- IT Asset Management
 
-### Cybersecurity
+### 🔐 Cybersecurity
 
-* Security Monitoring
-* Log Analysis
-* Threat Intelligence
-* Security Operations Center (SOC)
-* Incident Detection
-* Security Best Practices
+- Security Monitoring
+- Log Analysis
+- Threat Intelligence
+- Security Operations Center (SOC) Concepts
+- Incident Detection
+- Security Best Practices
 
-### Tools
+### ⚙️ Tools and Platforms
 
-* Git
-* GitHub
-* VS Code
-* Postman
-
----
-
-# 🌟 Featured Enterprise Projects
-
-## 🛡️ Enterprise Security Operations Center (SOC) & Threat Intelligence Platform
-
-Enterprise-grade cybersecurity platform featuring threat intelligence, incident management, security monitoring, IOC tracking, and analyst dashboards.
-
-### Key Technologies
-
-Python • Flask • PostgreSQL • Bootstrap
+- Git
+- GitHub
+- Visual Studio Code
+- Postman
 
 ---
 
-## 🔐 Cybersecurity Log Analyzer
+## 🌟 Featured Projects
 
-Security-focused log analysis platform capable of parsing, monitoring, and identifying suspicious events from enterprise log data.
+### 🛡️ Enterprise Security Operations Center (SOC) and Threat Intelligence Platform
 
-### Key Technologies
+A cybersecurity platform designed to bring together threat intelligence, incident management, security monitoring, Indicators of Compromise (IOCs), and security analyst dashboards.
 
-Python • Flask • SQLite • Chart.js
+**Key Technologies:** Python, Flask, PostgreSQL, Bootstrap
 
----
+### 🔐 Cybersecurity Log Analyzer
 
-## 🌐 Network Device Monitoring Dashboard
+A security-focused application designed to analyze log data, identify suspicious activity, and support security event investigation.
 
-Infrastructure monitoring system designed to track network devices, performance metrics, availability, and operational status.
+**Key Technologies:** Python, Flask, SQLite, Chart.js
 
-### Key Technologies
+### 🌐 Network Device Monitoring Dashboard
 
-Python • Flask • Bootstrap • SQLite
+An infrastructure monitoring application designed to track network devices, availability, performance metrics, and operational status.
 
----
+**Key Technologies:** Python, Flask, Bootstrap, SQLite
 
-## 🎫 IT Help Desk Ticketing System
+### 🎫 IT Help Desk Ticketing System
 
-Enterprise-style ticket management platform supporting issue tracking, prioritization, assignment workflows, and reporting.
+An IT service management application designed to support ticket creation, issue prioritization, assignment workflows, status tracking, and reporting.
 
-### Key Technologies
+**Key Technologies:** Python, Flask, PostgreSQL
 
-Python • Flask • PostgreSQL
+### 💻 Asset Management and IT Inventory System
 
----
+An IT asset management application designed to track equipment, employee assignments, inventory, maintenance activities, and asset-related reporting.
 
-## 💻 Asset Management & IT Inventory System
+**Key Technologies:** Python, Flask, SQLite
 
-Comprehensive asset lifecycle management platform for tracking devices, assignments, maintenance, and inventory reporting.
+### 📦 Smart Inventory Tracker
 
-### Key Technologies
+An inventory management application designed to support stock control, inventory analysis, low-stock alerts, and business reporting.
 
-Python • Flask • SQLite
-
----
-
-## 📦 Smart Inventory Tracker
-
-Inventory management application supporting stock control, analytics, low-stock alerts, and business reporting.
-
-### Key Technologies
-
-Python • Flask • SQLite
+**Key Technologies:** Python, Flask, SQLite
 
 ---
 
-## 📜 Education
+## 🎓 Education
 
 **National Diploma in Information Technology**
 
-Focused on software development, networking, database systems, and information systems.
+Relevant areas of study:
+
+- Software Development
+- Database Systems
+- Computer Networks
+- Computer Security
+- Information Systems
+- Internet Programming
 
 ---
 
 ## 🎯 Career Interests
 
-I am actively seeking opportunities in:
+I am interested in opportunities in:
 
-* Graduate Software Development
-* Junior Software Development
-* IT Support Engineering
-* Systems Administration
-* Infrastructure Support
-* Cybersecurity Operations
-* Security Analyst Roles
+- Graduate Software Development
+- Junior Software Development
+- Python Development
+- IT Support and Technical Support
+- Junior Systems Administration
+- Infrastructure Support
+- Cybersecurity Operations
+- Junior Security Analyst Roles
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
-## 📊 GitHub Stats
+### 📈 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=S-dev-hu&show_icons=true&theme=tokyonight
-## 💻 Most Used Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-dev-hu&show_icons=true&theme=tokyonight&hide_border=true)
 
+### 💻 Most Used Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-dev-hu&layout=compact&theme=tokyonight&hide_border=true) 
 
-## 🔥 Contribution Streak
+### 🔥 Contribution Streak
 
-(https://streak-stats.demolab.com?user=S-dev-hu&theme=tokyonight)
-## 📈 Contribution Graph
+![GitHub Streak](https://streak-stats.demolab.com?user=S-dev-hu&theme=tokyonight&hide_border=true)
 
-https://github-readme-activity-graph.vercel.app/graph?username=S-dev-hu&theme=tokyo-night)](https://github.com/S-dev-hu
-## 🏆 GitHub Trophies
+### 📉 Contribution Graph
 
-https://github-profile-trophy.vercel.app/?username=S-dev-hu&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=S-dev-hu&theme=tokyo-night&hide_border=true)](https://github.com/S-dev-hu)
+
+### 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=S-dev-hu&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📫 Connect With Me
 
-**LinkedIn:** linkedin.com/in/sibusiso-maseko-a5a21aab
-
-**GitHub:** github.com/S-dev-hu
-
-**Email:** sbudeep@gmail.com
+- **LinkedIn:** [Sibusiso Maseko](https://www.linkedin.com/in/sibusiso-maseko-a5a21aab/)
+- **GitHub:** [S-dev-hu](https://github.com/S-dev-hu)
+- **Email:** [sbudeep@gmail.com](mailto:sbudeep@gmail.com)
 
 ---
 
-### “Building secure, scalable, and practical solutions through software and technology.”
+### 💡 My Mission
+
+*Building secure, scalable, and practical solutions through software and technology.*
